@@ -1,6 +1,6 @@
 Test
 
-Hello world by master!
+Hello world by dev!
 
 
 This is a demo project of using github.
